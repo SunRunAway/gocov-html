@@ -23,7 +23,7 @@ package cov
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/axw/gocov"
+	"github.com/SunRunAway/gocov"
 	"io"
 	"io/ioutil"
 	"os"
